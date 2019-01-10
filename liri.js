@@ -24,7 +24,7 @@ if (input === 'concert-this') {
 }
 
 function concert_this(artist) {
-    request('https://rest.bandsintown.com/artists/' + artist + '/events?app_id=codingbootcamp', function(error, response, body) {
+    request('https://rest.bandsintown.com/artists/' + artist + '/events?app_id=2ce927b70daa675aedb8b9a407496709', function(error, response, body) {
         if (error) {
             console.log(error);
         }
