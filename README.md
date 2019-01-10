@@ -1,56 +1,32 @@
-Project Title
-One Paragraph of project description goes here
+# Liri-Node-App
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+A Siri-style JavaScript/Node application.
 
-Prerequisites
-What things you need to install the software and how to install them
+## Getting Started
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+Using Node and your Liri application, search Spotify for a song, Bands In Town for if a musical artist or group is playing in your city
+soon, or OMDB for information about any movie you might be curious about.
 
-Say what the step will be
+### Prerequisites
 
-Give the example
-And repeat
+Node, Moment, Axios, Request.
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+### Installing
 
-Running the tests
-Explain how to run the automated tests for this system
+Download the repository. Create a .env file with your individual API keys. Open your terminal and run the Liri JavaScript file in Node.
+Search by using the commands spotify-this-song, movie-this, and concert-this.
 
-Break down into end to end tests
-Explain what these tests test and why
+## Built With
 
-Give an example
-And coding style tests
-Explain what these tests test and why
+* [Node](https://nodejs.org/api/http.html) - The JavaScript runtime used
+* [Spotify API](https://developer.spotify.com/documentation/web-api/) - Used to search songs
+* [OMDB API](http://www.omdbapi.com/) - Used to search movies
+* [Bands In Town](https://manager.bandsintown.com/support/bandsintown-api) - Used to search bands in town
 
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
+## Contributing
 
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. 
 
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+## Authors
 
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+* **Jonathan Davis** - *Initial work* - (https://github.com/JonathanDavis22)
