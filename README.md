@@ -23,10 +23,6 @@ Search by using the commands spotify-this-song, movie-this, and concert-this.
 * [OMDB API](http://www.omdbapi.com/) - Used to search movies
 * [Bands In Town](https://manager.bandsintown.com/support/bandsintown-api) - Used to search bands in town
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. 
-
 ## Authors
 
 * **Jonathan Davis** - *Initial work* - (https://github.com/JonathanDavis22)
