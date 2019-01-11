@@ -14,7 +14,13 @@ Node, Moment, Axios, Request.
 ### Installing
 
 Download the repository. Create a .env file with your individual API keys. Open your terminal and run the Liri JavaScript file in Node.
-Search by using the commands spotify-this-song, movie-this, and concert-this.
+
+### Use
+
+## Spotify
+
+Use the command "spotify-this-song" and then the song title in quotations in order to search songs. Sometimes including more information, 
+such as the band name, helps clean up results.
 
 ## Built With
 
