@@ -27,9 +27,9 @@ such as the band name, helps clean up results. No quotations are needed for one-
 The artist name, song title, and album the song appeared on will be displayed to the user. If available, a preview of the song will also 
 appear, including a link to listen to that preview.
 
-https://github.com/JonathanDavis22/liri-node-app/blob/master/Screenshots/Spotify.png?raw=true
+[[https://github.com/JonathanDavis22/liri-node-app/blob/master/Screenshots/Spotify.png?raw=true]]
 
-https://raw.githubusercontent.com/JonathanDavis22/liri-node-app/master/Screenshots/Spotify%202.png
+[[https://raw.githubusercontent.com/JonathanDavis22/liri-node-app/master/Screenshots/Spotify%202.png]]
 
 ## OMDB
 
@@ -41,7 +41,7 @@ films titles.
 The movie title, release date, ratings, county of production, language(s), plot, and main cast of the searched film will be returned to
 the user.
 
-https://raw.githubusercontent.com/JonathanDavis22/liri-node-app/master/Screenshots/OMDB.png
+[[https://raw.githubusercontent.com/JonathanDavis22/liri-node-app/master/Screenshots/OMDB.png]]
 
 ## Bands In Town
 
@@ -52,7 +52,7 @@ concerts. No quotations are needed for one-word band names.
 
 The venue name, venue location, and date of the show will be returned to the user.
 
-https://raw.githubusercontent.com/JonathanDavis22/liri-node-app/master/Screenshots/BandsInTown.png
+[[https://raw.githubusercontent.com/JonathanDavis22/liri-node-app/master/Screenshots/BandsInTown.png]]
 
 ## Built With
 
