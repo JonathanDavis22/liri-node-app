@@ -63,4 +63,5 @@ The venue name, venue location, and date of the show will be returned to the use
 
 ## Authors
 
-* **Jonathan Davis** - *Initial work* - (https://github.com/JonathanDavis22)
+* **Jonathan Davis** - *Completion* - (https://github.com/JonathanDavis22)
+* **Mac Hollister** - *Initial work, tutoring* - (https://github.com/macdhollister)
